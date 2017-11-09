@@ -1,0 +1,32 @@
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\obj\Debug\RG.Data.csproj.CoreCompileInputs.cache
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\bin\Debug\RG.Data.dll.config
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\bin\Debug\RG.Data.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\bin\Debug\RG.Data.pdb
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\bin\Debug\EntityFramework.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\bin\Debug\RG.Core.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\bin\Debug\RG.Core.pdb
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\bin\Debug\EntityFramework.xml
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\obj\Debug\RG.Data.csprojResolveAssemblyReference.cache
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\obj\Debug\RG.Data.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\obj\Debug\RG.Data.pdb
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\obj\Debug\RG.Data.Migrations.initial.resources
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\obj\Debug\RG.Data.csproj.GenerateResource.Cache
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Data\obj\Debug\RG.Data.Migrations.addform.resources
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\bin\Debug\RG.Data.dll.config
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\bin\Debug\RG.Data.dll
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\bin\Debug\RG.Data.pdb
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\bin\Debug\EntityFramework.dll
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\bin\Debug\RG.Core.dll
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\bin\Debug\RG.Core.pdb
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\bin\Debug\EntityFramework.xml
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\obj\Debug\RG.Data.csprojResolveAssemblyReference.cache
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\obj\Debug\RG.Data.Migrations.initial.resources
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\obj\Debug\RG.Data.Migrations.addform.resources
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\obj\Debug\RG.Data.csproj.GenerateResource.Cache
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\obj\Debug\RG.Data.csproj.CoreCompileInputs.cache
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\obj\Debug\RG.Data.dll
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Data\obj\Debug\RG.Data.pdb

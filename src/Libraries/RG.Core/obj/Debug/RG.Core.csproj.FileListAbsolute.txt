@@ -1,0 +1,6 @@
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Core\bin\Debug\RG.Core.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Core\bin\Debug\RG.Core.pdb
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Core\obj\Debug\RG.Core.csprojResolveAssemblyReference.cache
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Core\obj\Debug\RG.Core.csproj.CoreCompileInputs.cache
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Core\obj\Debug\RG.Core.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Core\obj\Debug\RG.Core.pdb

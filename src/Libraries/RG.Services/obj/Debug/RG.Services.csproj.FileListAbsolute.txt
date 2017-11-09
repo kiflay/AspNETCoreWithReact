@@ -1,0 +1,26 @@
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\obj\Debug\RG.Services.csproj.CoreCompileInputs.cache
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\bin\Debug\RG.Services.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\bin\Debug\RG.Services.pdb
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\bin\Debug\RG.Core.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\bin\Debug\RG.Data.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\bin\Debug\EntityFramework.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\bin\Debug\RG.Core.pdb
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\bin\Debug\RG.Data.pdb
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\bin\Debug\RG.Data.dll.config
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\bin\Debug\EntityFramework.xml
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\obj\Debug\RG.Services.csprojResolveAssemblyReference.cache
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\obj\Debug\RG.Services.dll
+C:\Users\ktewelde\Documents\Visual Studio 2017\Test\src\Libraries\RG.Services\obj\Debug\RG.Services.pdb
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\bin\Debug\RG.Services.dll
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\bin\Debug\RG.Services.pdb
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\bin\Debug\RG.Core.dll
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\bin\Debug\RG.Data.dll
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\bin\Debug\EntityFramework.dll
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\bin\Debug\RG.Core.pdb
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\bin\Debug\RG.Data.pdb
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\bin\Debug\RG.Data.dll.config
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\bin\Debug\EntityFramework.xml
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\obj\Debug\RG.Services.csprojResolveAssemblyReference.cache
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\obj\Debug\RG.Services.csproj.CoreCompileInputs.cache
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\obj\Debug\RG.Services.dll
+C:\Users\ktewelde\Documents\GitHub\RG\src\Libraries\RG.Services\obj\Debug\RG.Services.pdb

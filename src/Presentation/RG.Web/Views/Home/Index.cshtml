@@ -1,0 +1,61 @@
+﻿@model IEnumerable<RG.Core.Models.ContactForm>
+
+<section id="content">
+    <div class="div">
+        <div class="row">
+            <div class="h1 col-md-4 text-center" id="result">
+                Loading
+            </div>
+           
+        </div>
+    </div>
+</section>
+
+
+<div class="row col-md-10 col-lg-offset-2">
+    <button class="btn btn-primary" id="addButton"><i class="glyphicon glyphicon-plus"></i> Add New Feed</button>
+</div>
+
+
+<div class="new-form row" style="display:none">
+    @{
+        var form = new ContactForm();
+        @Html.Partial("~/Views/Home/Create.cshtml", form);
+    }
+
+</div>
+
+<table class="table table-bordered">
+    <tr class="row">
+        <td>Name</td>
+        <td>Email</td>
+        <td>Message</td>
+    </tr>
+    @{ 
+        foreach(var item in Model)
+        {
+            <tr>
+                <td> @item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Message</td>
+            </tr>
+
+
+        }
+
+    }
+</table>
+
+
+
+
+   
+<script type="text/babel">
+    $(function(){
+    console.log("test");
+    ReactDOM.render(
+    <SearchPage urlLink="/api/ContactForm" url="api/ContactForm" />,
+    document.getElementById('search-page')
+    );
+    });
+</script>
